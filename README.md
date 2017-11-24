@@ -1,6 +1,6 @@
-# lingcon_workshop (Python 3)
+# lingcon_workshop (Python 2/3)
 
-George McIntire's materials for the November 18 Lingcon work shop, edited to work in Python 3
+George McIntire's materials for the November 18 Lingcon work shop, edited to work with both Python 2 and Python 3.
 
 Linkedin: https://www.linkedin.com/in/georgemcintire
 
